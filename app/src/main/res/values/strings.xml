@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenGLApp</string>
+    <string name="download">下载</string>
+    <string name="pause">暂停</string>
+</resources>
